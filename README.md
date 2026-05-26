@@ -58,8 +58,3 @@ The ensemble model confirmed statistical insights, heavily prioritizing the G2 s
 
 ---
 
-## 📂 How to Run the Project
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/glo-wairish/student-performance-prediction.git](https://github.com/your-username/student-performance-prediction.git)
