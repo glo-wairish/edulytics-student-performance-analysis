@@ -5,7 +5,7 @@ Schools and institutions struggle to identify factors affecting student performa
 ## 🚀 Project Overview
 Traditional academic assessments are largely reactive, identifying student performance risks only after final examinations have concluded. This project addresses this gap by leveraging **Educational Data Mining (EDM)** and machine learning to build a proactive predictive framework.
 
-Using an educational dataset containing behavioral, demographic, and academic variables, this study develops, validates, and compares a traditional parametric model (**Multiple Linear Regression**) against an ensemble machine learning model (**Random Forest**). The core objective is to optimize predictive accuracy for student final grades ($G3$), establishing a data-driven foundation for institutional **Early Warning Systems (EWS)**.
+Using an educational dataset containing behavioral, demographic, and academic variables, this study develops, validates, and compares a traditional parametric model (**Multiple Linear Regression**) against an ensemble machine learning model (**Random Forest**). The core objective is to optimize predictive accuracy for student final grades (G3), establishing a data-driven foundation for institutional **Early Warning Systems (EWS)**.
 
 ---
 
