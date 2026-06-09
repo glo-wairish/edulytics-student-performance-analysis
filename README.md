@@ -2,14 +2,14 @@
 Schools and institutions struggle to identify factors affecting student performance early enough. Edulytics uses data analytics and visualization to uncover trends in attendance, grades, and engagement.
 # Predictive Modeling of Student Academic Performance: A Comparative Study
 
-## 🚀 Project Overview
+## Project Overview
 Traditional academic assessments are largely reactive, identifying student performance risks only after final examinations have concluded. This project addresses this gap by leveraging **Educational Data Mining (EDM)** and machine learning to build a proactive predictive framework.
 
 Using an educational dataset containing behavioral, demographic, and academic variables, this study develops, validates, and compares a traditional parametric model (**Multiple Linear Regression**) against an ensemble machine learning model (**Random Forest**). The core objective is to optimize predictive accuracy for student final grades (G3), establishing a data-driven foundation for institutional **Early Warning Systems (EWS)**.
 
 ---
 
-## 📊 Key Results & Performance Summary
+## Key Results & Performance Summary
 The models were trained on an 80/20 train-test split of the 649 student records. Multiple Linear Regression emerged as the superior model, capturing the linear nature of academic momentum with exceptional precision.
 
 | Performance Metric | Random Forest Model | Multiple Linear Regression (Winner) |
@@ -24,7 +24,7 @@ The models were trained on an 80/20 train-test split of the 649 student records.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 * **Model Formulation:** Implement and fit a robust Multiple Linear Regression (MLR) framework and a non-parametric Random Forest (RF) regressor.
 * **Statistical Rigor:** Perform thorough regression diagnostic checks to validate structural assumptions.
 * **Feature Importance:** Analyze and rank demographic, behavioral, and academic features impacting final student outcomes.
