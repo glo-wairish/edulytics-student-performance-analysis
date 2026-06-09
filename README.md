@@ -31,14 +31,14 @@ The models were trained on an 80/20 train-test split of the 649 student records.
 
 ---
 
-## 🛠️ Tech Stack & Methodologies
+##  Tech Stack & Methodologies
 * **Languages & Core Libraries:** Python, Pandas, NumPy, Scikit-Learn, Statsmodels, Matplotlib, Seaborn.
 * **Feature Engineering:** One-Hot Encoding for categorical factors, tracking historical academic failures, and compounding social features (e.g., alcohol consumption indexes).
 * **Statistical Methods:** Backward Elimination (p-value threshold < 0.05), Durbin-Watson Autocorrelation Testing, Multicollinearity Diagnosis (VIF analysis), Residual Normality Checks.
 
 ---
 
-## 🔍 Feature Importance & Insights
+##  Feature Importance & Insights
 
 ### 1. Multiple Linear Regression (Refined via Backward Elimination)
 Through systematic backward elimination, non-significant variables were dropped to yield a clean, interpretable, and production-ready linear equation heavily driven by:
@@ -51,7 +51,7 @@ The ensemble model confirmed statistical insights, heavily prioritizing the G2 s
 
 ---
 
-## 💼 Strategic Recommendations for Educational Institutions
+## Strategic Recommendations for Educational Institutions
 1. **Deploy Automated Early Warning Systems (EWS):** Integrate the MLR model into school management software to flag at-risk students immediately following mid-term (G1/G2) grading intervals.
 2. **Dynamic Attendance Thresholds:** Establish automated administrative alerts when a student's absenteeism triggers coefficients modeled to impact final grading trends negatively.
 3. **Targeted Academic & Psychological Support:** Allocate institutional remedial and counseling resources proactively to students identified with baseline histories of academic failure.
